@@ -1,6 +1,7 @@
 #include<iostream>
-int main(){
-    int n;
-    std::cout << "Nhập n = " << std::endl;std::cin>>n;
+#include<math.h>
+using namespace std;
+int main(int argc, char const *argv[]){
+    
     return 0;
 }
