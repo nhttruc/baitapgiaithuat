@@ -1,5 +1,7 @@
 #include<iostream>
 int main(){
-    std::cout << "Hello World" << std::endl;
+    int n;
+    std::cout << "Nhập n = " << std::endl;std::cin>>n;
+    std::cout << "Xuất n = " <<n<< std::endl;
     return 0;
 }
